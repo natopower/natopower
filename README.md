@@ -7,4 +7,4 @@ I'll be real - I would have <b>never</b> seen myself on GitHub a couple of years
 ### [CZWG-core](https://github.com/winnipegfir/CZWG-core)
 Imagine you see someone pull up to their house with a newborn baby. Now imagine me, walking up, and somehow barely helping them take care of it. That's essentially my role on the Winnipeg FIR's website. 
 
-In all seiousness, the team working on this has put in a pile of work, and we're very lucky that the [Gander Oceanic team] (https://ganderoceanic.com) lended us their base to start us off. Now, here we are.
+In all seiousness, the team working on this has put in a pile of work, and we're very lucky that the [Gander Oceanic team](https://ganderoceanic.com) lended us their base to start us off. Now, here we are.
